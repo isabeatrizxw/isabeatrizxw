@@ -1,6 +1,7 @@
 # Hi, I'm Isa
 
 <p>
+<a href="mailto:isabeatriz146@gmail.com" title="Email">✉️</a>
 <a href="https://x.com/isadevsz" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white" /><img src="https://cdn.simpleicons.org/x" alt="X" title="X" width="32" height="32" /></picture></a>
 <a href="https://www.linkedin.com/in/isaszw" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="32" height="32" /></a>
 <a href="https://www.instagram.com/aisaspice/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram" alt="Instagram" title="Instagram" width="32" height="32" /></a>
