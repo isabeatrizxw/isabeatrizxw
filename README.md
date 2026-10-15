@@ -3,7 +3,6 @@
 Portfolio: [isa.jitecnologia.com](https://isa.jitecnologia.com)
 
 <p>
-<a href="https://isa.jitecnologia.com" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/web.svg?color=%23ffffff" /><img src="https://api.iconify.design/mdi/web.svg?color=%231f2328" alt="Portfolio" title="Portfolio" width="32" height="32" /></picture></a>
 <a href="mailto:isabeatriz146@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/email.svg?color=%23ffffff" /><img src="https://api.iconify.design/mdi/email.svg?color=%231f2328" alt="Email" title="Email" width="32" height="32" /></picture></a>
 <a href="https://x.com/isadevsz" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white" /><img src="https://cdn.simpleicons.org/x" alt="X" title="X" width="32" height="32" /></picture></a>
 <a href="https://www.linkedin.com/in/isaszw" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="32" height="32" /></a>
